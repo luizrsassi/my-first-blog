@@ -1,3 +1,0 @@
-djangogirls -> meu site
-
-myenv   -->  blg-env
