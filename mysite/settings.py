@@ -26,7 +26,7 @@ SECRET_KEY = 'f82@$lsuk%xao4ec2jv4!_=n%jhl7-09a-fq4t76wc69*8pha5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'http://cineclubebotucatu.pythonanywhere.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'cineclubebotucatu.pythonanywhere.com']
 
 
 # Application definition
